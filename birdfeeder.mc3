@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MaxCut Version="2.7.1.7">
+  <JobDetails>
+    <ClientName></ClientName>
+    <ClientFax></ClientFax>
+    <ClientCell></ClientCell>
+    <ClientEmail></ClientEmail>
+    <ClientAddress></ClientAddress>
+    <JobDateRequired>2014-12-31T00:00:00+01:00</JobDateRequired>
+    <JobNotes></JobNotes>
+    <JobReference></JobReference>
+    <JobCode>birdfeeder</JobCode>
+    <QuoteNumber></QuoteNumber>
+    <InvoiceNumber></InvoiceNumber>
+    <DeliveryAddress1></DeliveryAddress1>
+    <DeliveryAddress2></DeliveryAddress2>
+    <DeliveryAreaName></DeliveryAreaName>
+    <DeliveryAreaCode></DeliveryAreaCode>
+    <DeliveryProvince></DeliveryProvince>
+    <DeliveryCountry></DeliveryCountry>
+    <DeliveryGPSCoord></DeliveryGPSCoord>
+    <DeliveryCharge>0</DeliveryCharge>
+    <ClientPhone></ClientPhone>
+    <IsOptimizationDirty>false</IsOptimizationDirty>
+  </JobDetails>
+  <InputItems>
+    <InputItem Type="Input Panel">
+      <OptimizationInputPiece JobItemType="Panel">
+        <UID>6c71634e-e37d-4a6e-b998-6986a61049f6</UID>
+        <Name>onderkant</Name>
+        <Width>300</Width>
+        <Height>500</Height>
+        <CanRotate>2</CanRotate>
+        <Dimensions>500 mm x 300 mm</Dimensions>
+        <Quantity>1</Quantity>
+        <EdgeLength1MaterialUID></EdgeLength1MaterialUID>
+        <EdgeLength2MaterialUID></EdgeLength2MaterialUID>
+        <EdgeWidth1MaterialUID></EdgeWidth1MaterialUID>
+        <EdgeWidth2MaterialUID></EdgeWidth2MaterialUID>
+        <LastSavedEdgingLength1MaterialName></LastSavedEdgingLength1MaterialName>
+        <LastSavedEdgingLength2MaterialName></LastSavedEdgingLength2MaterialName>
+        <LastSavedEdgingWidth1MaterialName></LastSavedEdgingWidth1MaterialName>
+        <LastSavedEdgingWidth2MaterialName></LastSavedEdgingWidth2MaterialName>
+        <Notes></Notes>
+        <MaterialUID>4111a285-4d62-48cd-bd7c-cab522f0b49c</MaterialUID>
+        <LastSavedMaterialName>multiplex</LastSavedMaterialName>
+        <Note1></Note1>
+        <Note2></Note2>
+        <Note3></Note3>
+        <Note4></Note4>
+        <Group></Group>
+        <ReportTags></ReportTags>
+        <IncludeEdgingThickness>false</IncludeEdgingThickness>
+      </OptimizationInputPiece>
+    </InputItem>
+    <InputItem Type="Input Panel">
+      <OptimizationInputPiece JobItemType="Panel">
+        <UID>205dd627-a98a-40ce-9ef6-97a6de1f3984</UID>
+        <Name>Front &amp; back</Name>
+        <Width>30</Width>
+        <Height>300</Height>
+        <CanRotate>2</CanRotate>
+        <Dimensions>300 mm x 30 mm</Dimensions>
+        <Quantity>2</Quantity>
+        <EdgeLength1MaterialUID></EdgeLength1MaterialUID>
+        <EdgeLength2MaterialUID></EdgeLength2MaterialUID>
+        <EdgeWidth1MaterialUID></EdgeWidth1MaterialUID>
+        <EdgeWidth2MaterialUID></EdgeWidth2MaterialUID>
+        <LastSavedEdgingLength1MaterialName></LastSavedEdgingLength1MaterialName>
+        <LastSavedEdgingLength2MaterialName></LastSavedEdgingLength2MaterialName>
+        <LastSavedEdgingWidth1MaterialName></LastSavedEdgingWidth1MaterialName>
+        <LastSavedEdgingWidth2MaterialName></LastSavedEdgingWidth2MaterialName>
+        <Notes></Notes>
+        <MaterialUID>4111a285-4d62-48cd-bd7c-cab522f0b49c</MaterialUID>
+        <LastSavedMaterialName>multiplex</LastSavedMaterialName>
+        <Note1></Note1>
+        <Note2></Note2>
+        <Note3></Note3>
+        <Note4></Note4>
+        <Group></Group>
+        <ReportTags></ReportTags>
+        <IncludeEdgingThickness>false</IncludeEdgingThickness>
+      </OptimizationInputPiece>
+    </InputItem>
+    <InputItem Type="Input Panel">
+      <OptimizationInputPiece JobItemType="Panel">
+        <UID>562f8025-8a1d-4e82-b40a-c68f60fd4008</UID>
+        <Name>left &amp; right</Name>
+        <Width>30</Width>
+        <Height>520</Height>
+        <CanRotate>2</CanRotate>
+        <Dimensions>520 mm x 30 mm</Dimensions>
+        <Quantity>2</Quantity>
+        <EdgeLength1MaterialUID></EdgeLength1MaterialUID>
+        <EdgeLength2MaterialUID></EdgeLength2MaterialUID>
+        <EdgeWidth1MaterialUID></EdgeWidth1MaterialUID>
+        <EdgeWidth2MaterialUID></EdgeWidth2MaterialUID>
+        <LastSavedEdgingLength1MaterialName></LastSavedEdgingLength1MaterialName>
+        <LastSavedEdgingLength2MaterialName></LastSavedEdgingLength2MaterialName>
+        <LastSavedEdgingWidth1MaterialName></LastSavedEdgingWidth1MaterialName>
+        <LastSavedEdgingWidth2MaterialName></LastSavedEdgingWidth2MaterialName>
+        <Notes></Notes>
+        <MaterialUID>4111a285-4d62-48cd-bd7c-cab522f0b49c</MaterialUID>
+        <LastSavedMaterialName>multiplex</LastSavedMaterialName>
+        <Note1></Note1>
+        <Note2></Note2>
+        <Note3></Note3>
+        <Note4></Note4>
+        <Group></Group>
+        <ReportTags></ReportTags>
+        <IncludeEdgingThickness>false</IncludeEdgingThickness>
+      </OptimizationInputPiece>
+    </InputItem>
+    <InputItem Type="Input Panel">
+      <OptimizationInputPiece JobItemType="Panel">
+        <UID>e95e8695-e921-4da3-9ad7-9ccf01a3c289</UID>
+        <Name>walls</Name>
+        <Width>100</Width>
+        <Height>200</Height>
+        <CanRotate>2</CanRotate>
+        <Dimensions>200 mm x 100 mm</Dimensions>
+        <Quantity>2</Quantity>
+        <EdgeLength1MaterialUID></EdgeLength1MaterialUID>
+        <EdgeLength2MaterialUID></EdgeLength2MaterialUID>
+        <EdgeWidth1MaterialUID></EdgeWidth1MaterialUID>
+        <EdgeWidth2MaterialUID></EdgeWidth2MaterialUID>
+        <LastSavedEdgingLength1MaterialName></LastSavedEdgingLength1MaterialName>
+        <LastSavedEdgingLength2MaterialName></LastSavedEdgingLength2MaterialName>
+        <LastSavedEdgingWidth1MaterialName></LastSavedEdgingWidth1MaterialName>
+        <LastSavedEdgingWidth2MaterialName></LastSavedEdgingWidth2MaterialName>
+        <Notes></Notes>
+        <MaterialUID>4111a285-4d62-48cd-bd7c-cab522f0b49c</MaterialUID>
+        <LastSavedMaterialName>multiplex</LastSavedMaterialName>
+        <Note1></Note1>
+        <Note2></Note2>
+        <Note3></Note3>
+        <Note4></Note4>
+        <Group></Group>
+        <ReportTags></ReportTags>
+        <IncludeEdgingThickness>false</IncludeEdgingThickness>
+      </OptimizationInputPiece>
+    </InputItem>
+    <InputItem Type="Input Panel">
+      <OptimizationInputPiece JobItemType="Panel">
+        <UID>e92a5b25-1db1-4b85-b7b5-5f3bf5ed42bc</UID>
+        <Name>roof</Name>
+        <Width>520</Width>
+        <Height>167</Height>
+        <CanRotate>2</CanRotate>
+        <Dimensions>167 mm x 520 mm</Dimensions>
+        <Quantity>2</Quantity>
+        <EdgeLength1MaterialUID></EdgeLength1MaterialUID>
+        <EdgeLength2MaterialUID></EdgeLength2MaterialUID>
+        <EdgeWidth1MaterialUID></EdgeWidth1MaterialUID>
+        <EdgeWidth2MaterialUID></EdgeWidth2MaterialUID>
+        <LastSavedEdgingLength1MaterialName></LastSavedEdgingLength1MaterialName>
+        <LastSavedEdgingLength2MaterialName></LastSavedEdgingLength2MaterialName>
+        <LastSavedEdgingWidth1MaterialName></LastSavedEdgingWidth1MaterialName>
+        <LastSavedEdgingWidth2MaterialName></LastSavedEdgingWidth2MaterialName>
+        <Notes></Notes>
+        <MaterialUID>4111a285-4d62-48cd-bd7c-cab522f0b49c</MaterialUID>
+        <LastSavedMaterialName>multiplex</LastSavedMaterialName>
+        <Note1></Note1>
+        <Note2></Note2>
+        <Note3></Note3>
+        <Note4></Note4>
+        <Group></Group>
+        <ReportTags></ReportTags>
+        <IncludeEdgingThickness>false</IncludeEdgingThickness>
+      </OptimizationInputPiece>
+    </InputItem>
+  </InputItems>
+</MaxCut>
